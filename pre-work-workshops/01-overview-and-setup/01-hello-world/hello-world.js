@@ -1,4 +1,5 @@
-console.log('hello world!');
+let phrase = 'Hello World';
+console.log(phrase);
 
 // this is a comment!
 
